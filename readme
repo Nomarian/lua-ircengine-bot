@@ -1,0 +1,5 @@
+
+./bot host/port channels [callbacks used]
+
+callbacks must be a file in the callbacks directory
+the callbacks are dofile-d in. so beware
